@@ -23,4 +23,4 @@ N/A
 Please refer to the LICENSE in the repo.
 
 
-[Alt text](module-1/module-1-challenge/assets/images/module-1-challenge-screenshot.png "screenshot of site")
+[Alt text](https://github.com/smcgarr13/module-1-challenge/commit/031a3b71ba034fd162c96f751e1570a6087bff8c#diff-135eabebdbeeb9d38c70fcbc534967be3b5eaf1ba415998beec81ae9603980a4 "screenshot of site")
