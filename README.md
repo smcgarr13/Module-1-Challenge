@@ -2,8 +2,7 @@
 
 ## Description
 
-This codebase was created to follow accessibility standards
-to ensure the site is optimized for search engines
+This codebase was created to follow accessibility standards to ensure the site is optimized for search engines
 
 ## Installation
 
@@ -22,5 +21,6 @@ N/A
 
 Please refer to the LICENSE in the repo.
 
+[mock-up screenshot](https://github.com/smcgarr13/module-1-challenge/commit/031a3b71ba034fd162c96f751e1570a6087bff8c#diff-135eabebdbeeb9d38c70fcbc534967be3b5eaf1ba415998beec81ae9603980a4 "mock-up of site")
 
-[Alt text](https://github.com/smcgarr13/module-1-challenge/commit/031a3b71ba034fd162c96f751e1570a6087bff8c#diff-135eabebdbeeb9d38c70fcbc534967be3b5eaf1ba415998beec81ae9603980a4 "screenshot of site")
+[Deployed Link] https://smcgarr13.github.io/module-1-challenge/
